@@ -1,0 +1,11 @@
+baseURL = "https://ntrung.net"
+title = "Trung's Blog"
+author = "Trung Nguyen"
+copyright = "Copyright (c) 2017 - 2018, Trung Nguyen; all rights reserved."
+canonifyurls = true
+paginate = 5
+theme = "code-editor"
+
+[params]
+    author = "Trung Nguyen"
+    locale = "en-US"
